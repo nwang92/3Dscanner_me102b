@@ -1,0 +1,113 @@
+%UIMSG-USER-ERROR, Failed to preload image chkbtnsel_green_ball_large.bif
+%UIMSG-USER-ERROR, Failed to preload image chkbtnsel_search_large.bif
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_node_add_Op is obsolete - use UI_insert_item_Op
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_node_add_Op is obsolete - use UI_insert_item_Op
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_node_add_Op is obsolete - use UI_insert_item_Op
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_node_add_Op is obsolete - use UI_insert_item_Op
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_node_add_Op is obsolete - use UI_insert_item_Op
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_node_add_Op is obsolete - use UI_insert_item_Op
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_node_add_Op is obsolete - use UI_insert_item_Op
+%UIMSG-APPLICATION-ERROR, UI_tree_node_inquire_Op of UI_TREE_NODE_TYPE is obsolete - use UI_item_inquire_Op
+%UIMSG-APPLICATION-ERROR, UI_tree_node_inquire_Op of UI_TREE_NODE_TYPE is obsolete - use UI_item_inquire_Op
+%UIMSG-APPLICATION-ERROR, UI_tree_node_inquire_Op of UI_TREE_NODE_TYPE is obsolete - use UI_item_inquire_Op
+%UIMSG-APPLICATION-ERROR, UI_tree_node_inquire_Op of UI_TREE_NODE_TYPE is obsolete - use UI_item_inquire_Op
+%UIMSG-APPLICATION-ERROR, UI_tree_node_inquire_Op of UI_TREE_NODE_TYPE is obsolete - use UI_item_inquire_Op
+%UIMSG-APPLICATION-ERROR, UI_tree_node_inquire_Op of UI_TREE_NODE_TYPE is obsolete - use UI_item_inquire_Op
+%UIMSG-APPLICATION-ERROR, UI_tree_node_inquire_Op of UI_TREE_NODE_TYPE is obsolete - use UI_item_inquire_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: proe_win, in device: rmb_popup, for add action
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_add: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_node_add_Op is obsolete - use UI_insert_item_Op
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_node_add_Op is obsolete - use UI_insert_item_Op
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_node_add_Op is obsolete - use UI_insert_item_Op
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_node_add_Op is obsolete - use UI_insert_item_Op
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_node_add_Op is obsolete - use UI_insert_item_Op
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_node_add_Op is obsolete - use UI_insert_item_Op
+%UIMSG-APPLICATION-ERROR, UI_tree_node_modify_Op of UI_TREE_NODE_TYPE is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, UI_tree_node_modify_Op of UI_TREE_NODE_TYPE is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, UI_tree_node_modify_Op of UI_TREE_NODE_TYPE is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, UI_tree_node_modify_Op of UI_TREE_NODE_TYPE is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, UI_tree_node_modify_Op of UI_TREE_NODE_TYPE is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Cannot programmatically inquire attribute: _SelectedNames, of component: main_dlg_w1@main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to inquire of component: main_dlg_w1, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Cannot programmatically inquire attribute: _SelectedNames, of component: home_File:ProCmdModelOpen@main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to inquire of component: home_File:ProCmdModelOpen, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_node_add_Op is obsolete - use UI_insert_item_Op
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_node_add_Op is obsolete - use UI_insert_item_Op
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_node_add_Op is obsolete - use UI_insert_item_Op
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_node_add_Op is obsolete - use UI_insert_item_Op
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_node_add_Op is obsolete - use UI_insert_item_Op
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_node_add_Op is obsolete - use UI_insert_item_Op
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_node_add_Op is obsolete - use UI_insert_item_Op
+%UIMSG-APPLICATION-ERROR, UI_get_screen_cursor_pos_Op is obsolete - use UI Desktop UI_get_cursor_pos_Op
+%UIMSG-APPLICATION-ERROR, UI_get_screen_cursor_pos_Op is obsolete - use UI Desktop UI_get_cursor_pos_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: PHBriefOpts.ph_lay_brief_type_opts.EnableATB, in device: impt_new_model, for modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_set_action
+%UIMSG-APPLICATION-ERROR, UI_get_screen_cursor_pos_Op is obsolete - use UI Desktop UI_get_cursor_pos_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_list.Filelist, in device: file_open, to do operation
+%UIMSG-APPLICATION-ERROR, Cannot programmatically inquire attribute: _SelectedNames, of component: PushButton3@impt_new_model
+%UIMSG-APPLICATION-ERROR, Failed to inquire of component: PushButton3, in device: impt_new_model
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_node_add_Op is obsolete - use UI_insert_item_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: newtree, in device: newtree, for inquire
+%UIMSG-APPLICATION-ERROR, UI_tree_node_modify_Op of UI_TREE_NODE_TYPE is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_node_add_Op is obsolete - use UI_insert_item_Op
+%UIMSG-APPLICATION-ERROR, UI_tree_node_modify_Op of UI_TREE_NODE_TYPE is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_node_add_before_Op is obsolete - use UI_insert_item_Op
+%UIMSG-APPLICATION-ERROR, UI_tree_node_modify_Op of UI_TREE_NODE_TYPE is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_node_add_before_Op is obsolete - use UI_insert_item_Op
+%UIMSG-APPLICATION-ERROR, UI_tree_node_modify_Op of UI_TREE_NODE_TYPE is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PHTLeft.ColAssignExpandChkBtn, in device: main_dlg_w1, for modify
+%UIMSG-APPLICATION-ERROR, Component 'PHTLeft.SecondaryTreeSash@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Could not find component: PHTLeft.ColAssignExpandChkBtn, in device: main_dlg_w1, for modify
+%UIMSG-APPLICATION-ERROR, Parent TitlebarNakedWindow resizing child TitlebarMainLblPushButton (113,0) (1109x24) to be partially viewable in (0,0) (1109x24)
+%UIMSG-USER-ERROR, Failed to preload image chkbtnsel_auto_regenerate16x16
+%UIMSG-USER-ERROR, Failed to preload image chkbtnsel_shaded_edges16x16.bif
+%UIMSG-USER-ERROR, Failed to preload image chkbtnsel_rtr_floor16x16.bif
+%UIMSG-USER-ERROR, Failed to preload image chkbtnsel_shaded16x16.bif
+%UIMSG-USER-ERROR, Failed to preload image chkbtnsel_nohidden16x16.bif
+%UIMSG-USER-ERROR, Failed to preload image chkbtnsel_hidden16x16.bif
+%UIMSG-USER-ERROR, Failed to preload image chkbtnsel_wireframe16x16.bif
+%UIMSG-APPLICATION-ERROR, Component 'RegenStatusBarComp@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'RegenStatusBarComp@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, _uicmd_command_update - no value set for BrowseSelect command <ProCmdNamedViewsGalSelect>
+%UIMSG-APPLICATION-ERROR, _uicmd_command_update - no value set for BrowseSelect command <ProCmdNamedViewsGalSelect>
+%UIMSG-APPLICATION-ERROR, _uicmd_command_update - no value set for BrowseSelect command <ProCmdNamedViewsGalSelect>
+%UIMSG-APPLICATION-ERROR, _uicmd_command_update - no value set for BrowseSelect command <ProCmdNamedViewsGalSelect>
+%UIMSG-APPLICATION-ERROR, _uicmd_command_update - no value set for BrowseSelect command <ProCmdNamedViewsGalSelect>
+%UIMSG-APPLICATION-ERROR, _uicmd_command_update - no value set for BrowseSelect command <ProCmdNamedViewsGalSelect>
+%UIMSG-APPLICATION-ERROR, _uicmd_command_update - no value set for BrowseSelect command <ProCmdNamedViewsGalSelect>
+%UIMSG-APPLICATION-ERROR, _uicmd_command_update - no value set for BrowseSelect command <ProCmdNamedViewsGalSelect>
+%UIMSG-APPLICATION-ERROR, Cannot programmatically inquire attribute: _SelectedNames, of component: page_View_control_btn@main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to inquire of component: page_View_control_btn, in device: main_dlg_w1
+%UIMSG-USER-ERROR, Failed to preload image chkbtnsel_combined_views_ui16x16.bif
+%UIMSG-APPLICATION-ERROR, _uicmd_command_update - no value set for BrowseSelect command <ProCmdNamedViewsGalSelect>
+%UIMSG-APPLICATION-ERROR, _uicmd_command_update - no value set for BrowseSelect command <ProCmdNamedViewsGalSelect>
+%UIMSG-APPLICATION-ERROR, _uicmd_command_update - no value set for BrowseSelect command <ProCmdNamedViewsGalSelect>
+%UIMSG-APPLICATION-ERROR, Cannot programmatically inquire attribute: _SelectedNames, of component: View:ProCmdViewContinuePan@main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to inquire of component: View:ProCmdViewContinuePan, in device: main_dlg_w1
+%UIMSG-USER-ERROR, Cursor image "hand_open_cursor" has no hotspot
+%UIMSG-APPLICATION-ERROR, _uicmd_command_update - no value set for BrowseSelect command <ProCmdNamedViewsGalSelect>
+%UIMSG-USER-ERROR, Cursor image "hand_closed_cursor" has no hotspot
+%UIMSG-USER-ERROR, Cursor image "hand_open_cursor" has no hotspot
+%UIMSG-APPLICATION-ERROR, Cannot programmatically inquire attribute: _SelectedNames, of component: View:ProCmdViewSpinOnOff@main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to inquire of component: View:ProCmdViewSpinOnOff, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Cannot programmatically inquire attribute: _SelectedNames, of component: View:casc340798662:ProCmdNamedViewsGalSelect.bottom.named_vws_gal_orientBtn@main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to inquire of component: View:casc340798662:ProCmdNamedViewsGalSelect.bottom.named_vws_gal_orientBtn, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Cannot programmatically inquire attribute: _SelectedNames, of component: orientsurfPH.OrientSel1@orient
+%UIMSG-APPLICATION-ERROR, Failed to inquire of component: orientsurfPH.OrientSel1, in device: orient
+%UIMSG-APPLICATION-ERROR, Cannot programmatically inquire attribute: _SelectedNames, of component: orientsurfPH.OrientSel1@orient
+%UIMSG-APPLICATION-ERROR, Failed to inquire of component: orientsurfPH.OrientSel1, in device: orient
+%UIMSG-APPLICATION-ERROR, Cannot programmatically inquire attribute: _SelectedNames, of component: OkPB@orient
+%UIMSG-APPLICATION-ERROR, Failed to inquire of component: OkPB, in device: orient
+%UIMSG-APPLICATION-ERROR, Cannot programmatically inquire attribute: _SelectedNames, of component: OkPB@orient
+%UIMSG-APPLICATION-ERROR, Failed to inquire of component: OkPB, in device: orient
+%UIMSG-APPLICATION-ERROR, Cannot programmatically inquire attribute: _SelectedNames, of component: main_dlg_w1@main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to inquire of component: main_dlg_w1, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Cannot programmatically inquire attribute: _SelectedNames, of component: main_dlg_w1@main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to inquire of component: main_dlg_w1, in device: main_dlg_w1
+%UIMSG-USER-ERROR, Cursor image "spin_cursor" has no hotspot
+%UIMSG-APPLICATION-ERROR, Cannot programmatically inquire attribute: _SelectedNames, of component: TitleClosePushButton@main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to inquire of component: TitleClosePushButton, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Cannot programmatically inquire attribute: _SelectedNames, of component: yes@UI Message Dialog
+%UIMSG-APPLICATION-ERROR, Failed to inquire of component: yes, in device: UI Message Dialog
